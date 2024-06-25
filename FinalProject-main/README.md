@@ -2,10 +2,6 @@
 
 **Subject:** Development of Applications for Data Science
 
-**Course:** 2nd year
-
-**Degree:** Engineering and Data Science
-
 **School:** School of Computer Engineering
 
 **University:** University of Las Palmas de Gran Canaria
