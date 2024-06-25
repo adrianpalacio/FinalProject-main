@@ -1,8 +1,8 @@
 package dacd.adrianpalacio.control;
 
 import com.google.gson.*;
-//import dacd.alejandroaleman.control.exceptions.StoreException;
-import dacd.alejandroaleman.model.Hotel;
+//import dacd.adrianpalacio.control.exceptions.StoreException;
+import dacd.adrianpalacio.model.Hotel;
 import org.apache.activemq.ActiveMQConnectionFactory;
 
 import javax.jms.*;

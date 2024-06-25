@@ -1,6 +1,6 @@
 package dacd.adrianpalacio.control;
 
-import dacd.alejandroaleman.model.Hotel;
+import dacd.adrianpalacio.model.Hotel;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;

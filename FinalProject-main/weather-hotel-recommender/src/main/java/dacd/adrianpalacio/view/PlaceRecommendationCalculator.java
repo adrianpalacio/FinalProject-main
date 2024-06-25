@@ -1,6 +1,6 @@
 package dacd.adrianpalacio.view;
 
-import dacd.alejandroaleman.model.Weather;
+import dacd.adrianpalacio.model.Weather;
 
 import java.util.List;
 import java.util.Map;

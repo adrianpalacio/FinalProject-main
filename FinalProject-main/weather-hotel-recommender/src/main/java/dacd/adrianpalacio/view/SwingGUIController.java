@@ -1,6 +1,6 @@
 package dacd.adrianpalacio.view;
 
-import dacd.alejandroaleman.model.*;
+import dacd.adrianpalacio.model.*;
 import javax.swing.*;
 import java.awt.*;
 import java.net.URL;

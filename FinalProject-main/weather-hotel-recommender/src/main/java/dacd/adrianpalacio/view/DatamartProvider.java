@@ -1,7 +1,7 @@
 package dacd.adrianpalacio.view;
 
-import dacd.alejandroaleman.model.Hotel;
-import dacd.alejandroaleman.model.Weather;
+import dacd.adrianpalacio.model.Hotel;
+import dacd.adrianpalacio.model.Weather;
 
 import java.io.File;
 import java.sql.Connection;

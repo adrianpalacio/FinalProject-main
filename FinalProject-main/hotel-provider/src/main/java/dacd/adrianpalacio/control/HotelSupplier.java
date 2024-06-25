@@ -1,6 +1,6 @@
 package dacd.adrianpalacio.control;
 
-import dacd.alejandroaleman.model.Hotel;
+import dacd.adrianpalacio.model.Hotel;
 
 import java.util.List;
 

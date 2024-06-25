@@ -1,6 +1,6 @@
 package dacd.adrianpalacio.control;
 
-import dacd.alejandroaleman.control.exceptions.ReceiverException;
+import dacd.adrianpalacio.control.exceptions.ReceiverException;
 
 import java.util.concurrent.Semaphore;
 

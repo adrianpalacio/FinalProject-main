@@ -1,8 +1,8 @@
 package dacd.adrianpalacio.control;
 
-import dacd.alejandroaleman.control.exceptions.ReceiverException;
-import dacd.alejandroaleman.view.DatamartProvider;
-import dacd.alejandroaleman.view.SwingGUIController;
+import dacd.adrianpalacio.control.exceptions.ReceiverException;
+import dacd.adrianpalacio.view.DatamartProvider;
+import dacd.adrianpalacio.view.SwingGUIController;
 
 import java.util.List;
 import java.util.concurrent.Semaphore;

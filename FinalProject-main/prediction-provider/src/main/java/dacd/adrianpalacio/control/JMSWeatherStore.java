@@ -1,8 +1,8 @@
 package dacd.adrianpalacio.control;
 
 import com.google.gson.*;
-import dacd.alejandroaleman.control.exceptions.StoreException;
-import dacd.alejandroaleman.model.Weather;
+import dacd.adrianpalacio.control.exceptions.StoreException;
+import dacd.adrianpalacio.model.Weather;
 import org.apache.activemq.ActiveMQConnectionFactory;
 
 import javax.jms.*;

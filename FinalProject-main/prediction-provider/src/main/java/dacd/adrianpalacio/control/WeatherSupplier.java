@@ -1,7 +1,7 @@
 package dacd.adrianpalacio.control;
 
-import dacd.alejandroaleman.model.Location;
-import dacd.alejandroaleman.model.Weather;
+import dacd.adrianpalacio.model.Location;
+import dacd.adrianpalacio.model.Weather;
 
 import java.util.List;
 

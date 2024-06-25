@@ -1,6 +1,6 @@
 package dacd.adrianpalacio.control;
 
-import dacd.alejandroaleman.control.exceptions.*;
+import dacd.adrianpalacio.control.exceptions.*;
 import org.apache.activemq.ActiveMQConnectionFactory;
 import javax.jms.*;
 import java.util.concurrent.Semaphore;
